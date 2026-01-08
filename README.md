@@ -1,4 +1,4 @@
-# GitHub-dataset-samples
+# GitHub 데이터셋 샘플
 
 <h2>1001개의 GitHub 리포지토리로 구성된 샘플 データセット</h2>
 
