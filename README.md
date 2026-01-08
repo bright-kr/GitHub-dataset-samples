@@ -2,7 +2,7 @@
 
 <h2>1001개의 GitHub 리포지토리로 구성된 샘플 データセット</h2>
 
-![GitHub dataset header](https://github.com/luminati-io/GitHub-dataset-samples/blob/main/github-datasets.PNG)
+![GitHub dataset header](https://github.com/bright-kr/GitHub-dataset-samples/blob/main/github-datasets.PNG)
 
 1000개 이상의 리포지토리로 구성된 GitHub データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
